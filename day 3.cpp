@@ -1,23 +1,34 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main()
+int max(int a,int b)
 {
-    int n;
-    cin>>n;
+    return a>b?a:b;
+}
+
+int maximumLoot(int highestValue[], int arrSize)
+{
+    //int dp[arrSize];
+    //dp[0]=highestValue[0];
+    //dp[1]=max(highestValue[0],highestValue[1]);
+    int var1,var2;
+    var1=highestValue[0];
+    var2=max(highestValue[0],highestValue[1]);
+    int maxSum=0;
+    for(int i=2;i<arrSize;i++){
+        maxSum=max(highestValue[i]+var1,var2);
+        var1=var2;
+        var2=maxSum;
+    }
+    return maxSum;
+}
+
+int main(){
+    int arrSize;
+    cin>>arrSize;
+    int arr[arrSize];
+    for(int i=0;i<arrSize;i++){
+        cin>>arr[i];
+    }
     
-    int a[n];
-    for(int i=0;i<n;i++){
-        cin>>a[i];
-    }
-    //6 7 1 3 8 2 5 op -20
-    int sum1=0,sum2=0;
-    for(int i=0;i<n;i+=2){
-        if(i%2==0){
-            sum1+=a[i];
-        }
-        else{
-            sum2+=a[i];
-        }
-    }
-    cout<<(sum1>sum2?sum1:sum2);
+    cout<<maximumLoot(arr,arrSize);
 }
