@@ -6,3 +6,4 @@ Day 5 - Mixed Matrix<br>
 Day 6 - Sum of two numbers without any operators<br>
 Day 7 - Implement printf without any header file(s)<br>
 Day 8 - Minimum coins that covers all from 1 to n<br>
+Day 9 - Missing number in array from 1 to n<br>
