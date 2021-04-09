@@ -10,3 +10,5 @@ Day 9 - Missing number in array from 1 to n<br>
 Day 10 - Sort based on Frequency<br>
 Day 11 - Climbing the leaderboard<br>
 Day 12 - Check whether sum of subarrays is equal or not<br>
+Day 13 - Making Candies<br>
+Day 14 - Angry Professor<br>
