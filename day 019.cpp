@@ -8,9 +8,7 @@ int main(){
     char plaintext[100];
     scanf(" %[^\n]s",plaintext);
     
-    for(int i=0;i<plaintext[i]!='\0';i++){
-        if((plaintext[i]>='a' && plaintext[i]<='z')||(plaintext[i]>='A' && plaintext[i]<='Z')){
-            
+    for(int i=0;i<plaintext[i]!='\0';i++){            
             if(plaintext[i]>='A' && plaintext[i]<='Z'){
                 plaintext[i]=encryptKey[plaintext[i]-65];
 
@@ -18,10 +16,8 @@ int main(){
             else if(plaintext[i]>='a' && plaintext[i]<='z'){
                 plaintext[i]=encryptKey[plaintext[i]-97]+32;
             }
-
+            cout<<plaintext[i]; 
         }
-        cout<<plaintext[i]; 
-    }    
 }
 
 
