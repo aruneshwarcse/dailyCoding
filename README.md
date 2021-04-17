@@ -18,3 +18,4 @@ Day 17 - Trapping Rain Water<br>
 Day 18 - Queen's Attack<br>
 Day 19 - Substitution Cipher<br>
 Day 20 - Largest odd number<br>
+Day 21 - Allocation<br>
