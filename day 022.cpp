@@ -14,18 +14,13 @@ int main(void){
         }
     }
 
-    // cout<<rows<<" "<<columns;
-
     int row=0,col=0;
-
     bool rowInc=0;
-    // cout<<rowInc;
-
     int mn=min(rows,columns);
 
     for(int len=1;len<=mn;len++){
         for(int i=0;i<len;i++){
-            cout<<arr[row][col]<<"first"<<endl;
+            cout<<arr[row][col]<<" ";
 
             if(i+1==len){
                 break;
@@ -38,8 +33,6 @@ int main(void){
             else{
                 --row,++col;
             }
-
-
         }
 
     if(len==mn){
@@ -85,7 +78,7 @@ int main(void){
         }
 
         for(int i=0;i<len;i++){
-            cout<<arr[row][col]<<"second"<<endl;
+            cout<<arr[row][col]<<" ";
 
             if(i+1==len){
                 break;
@@ -119,12 +112,7 @@ int main(void){
             }
             rowInc=false;
         }
-
-
-
-    }
-
-    
+    }   
 }
 
 
