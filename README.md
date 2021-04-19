@@ -20,3 +20,4 @@ Day 19 - Substitution Cipher<br>
 Day 20 - Largest odd number<br>
 Day 21 - Allocation<br>
 Day 22 - Print Matrix in Zig-Zag pattern<br>
+Day 23 - Print N numbers without loop<br>
