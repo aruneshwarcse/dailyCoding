@@ -21,3 +21,4 @@ Day 20 - Largest odd number<br>
 Day 21 - Allocation<br>
 Day 22 - Print Matrix in Zig-Zag pattern<br>
 Day 23 - Print N numbers without loop<br>
+Day 24 - Reverse a Linked List<br>
