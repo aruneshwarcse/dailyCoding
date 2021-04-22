@@ -23,3 +23,4 @@ Day 22 - Print Matrix in Zig-Zag pattern<br>
 Day 23 - Print first N numbers without loop<br>
 Day 24 - Reverse a Linked List<br>
 Day 25 - Boolean Matrix Problem<br>
+Day 26 - Tetrus<br>
