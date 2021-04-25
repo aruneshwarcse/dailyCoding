@@ -26,3 +26,4 @@ Day 25 - Boolean Matrix Problem<br>
 Day 26 - Tetrus<br>
 Day 27 - Covid Spread<br>
 Day 28 - Classroom Seating Arrangement<br>
+Day 29 - Number of digits from 1 to N<br>
