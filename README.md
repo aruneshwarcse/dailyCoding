@@ -28,3 +28,4 @@ Day 27 - Covid Spread<br>
 Day 28 - Classroom Seating Arrangement<br>
 Day 29 - Number of digits from 1 to N<br>
 Day 30 - URL Validation<br>
+Day 31 - Interesting Polygon<br>
