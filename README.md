@@ -31,3 +31,4 @@ Day 30 - URL Validation<br>
 Day 31 - Interesting Polygon<br>
 Day 32 - Equal unique count of a splitted string<br>
 Day 33 - Primary Colors Addition<br>
+Day 34 - Unfolded Cube Pattern<br>
