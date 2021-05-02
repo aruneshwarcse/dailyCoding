@@ -33,3 +33,4 @@ Day 32 - Equal unique count of a splitted string<br>
 Day 33 - Primary Colors Addition<br>
 Day 34 - Unfolded Cube Pattern<br>
 Day 35 - Match Schedule<br>
+Day 36 - Printing source code of a cpp program itself<br>
