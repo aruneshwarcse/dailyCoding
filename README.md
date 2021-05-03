@@ -34,3 +34,4 @@ Day 33 - Primary Colors Addition<br>
 Day 34 - Unfolded Cube Pattern<br>
 Day 35 - Match Schedule<br>
 Day 36 - Printing source code of a cpp program itself<br>
+Day 37 - Search String in Matrix Edges<br>
