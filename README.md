@@ -35,3 +35,4 @@ Day 34 - Unfolded Cube Pattern<br>
 Day 35 - Match Schedule<br>
 Day 36 - Printing source code of a cpp program itself<br>
 Day 37 - Search String in Matrix Edges<br>
+Day 38 - Sort Digits in Submatrices<br>
