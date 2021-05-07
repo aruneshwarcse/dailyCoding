@@ -38,3 +38,4 @@ Day 37 - Search String in Matrix Edges<br>
 Day 38 - Sort Digits in Submatrices<br>
 Day 39 - Minimum Length-String Values<br>
 Day 40 - Mark both diagonals of submatrix<br>
+Day 41 - Merge even array<br>
