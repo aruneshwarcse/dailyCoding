@@ -40,3 +40,4 @@ Day 39 - Minimum Length-String Values<br>
 Day 40 - Mark both diagonals of submatrix<br>
 Day 41 - Merge even array<br>
 Day 42 - Students Ranking<br>
+Day 43 - Longest common middle substring<br>
