@@ -46,3 +46,4 @@ Day 45 - Make it One<br>
 Day 46 - String Decryption<br>
 Day 47 - Rotate corners in anticlockwise direction<br>
 Day 48 - First non repeated character in a string<br>
+Day 49 - A Number Pattern<br>
