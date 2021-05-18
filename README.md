@@ -48,3 +48,4 @@ Day 47 - Rotate corners in anticlockwise direction<br>
 Day 48 - First non repeated character in a string<br>
 Day 49 - A Number Pattern<br>
 Day 50 - Hills Number<br>
+Day 51 - Check sum for all forms of a number<br>
