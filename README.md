@@ -50,3 +50,4 @@ Day 49 - A Number Pattern<br>
 Day 50 - Hills Number<br>
 Day 51 - Check sum for all forms of a number<br>
 Day 52 - Divisible fibonacci<br>
+Day 53 - Number Pattern with loop<br>
