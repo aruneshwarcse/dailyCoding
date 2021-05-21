@@ -51,3 +51,4 @@ Day 50 - Hills Number<br>
 Day 51 - Check sum for all forms of a number<br>
 Day 52 - Divisible fibonacci<br>
 Day 53 - Number Pattern with loop<br>
+Day 54 - Bike Tour<br>
