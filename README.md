@@ -57,3 +57,4 @@ Day 56 - Alien Generator<br>
 Day 57 - Check if an array can be converted into palindrome or not<br>
 Day 58 - Power of power<br>
 Day 59 - 2d Array hour glass<br>
+Day 60 - Snake Pattern<br>
