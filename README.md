@@ -61,3 +61,4 @@ Day 60 - Snake Pattern<br>
 Day 61 - Recursive Digit Sum<br>
 Day 62 - Check if two numbers are equal without operators<br>
 Day 63 - Extra long factorial<br>
+Day 64 - Virus outbreak<br>
