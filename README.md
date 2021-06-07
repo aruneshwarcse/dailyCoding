@@ -63,4 +63,6 @@ Day 62 - Check if two numbers are equal without operators<br>
 Day 63 - Extra long factorial<br>
 Day 64 - Virus outbreak<br>
 Day 65 - Trailing zeroes in factorial<br>
-Day 66 - Prime Game
+Day 66 - Prime Game<br>
+Day 67 - Electronics Shop<br>
+Day 68 - Sales by match<br>
