@@ -66,3 +66,4 @@ Day 65 - Trailing zeroes in factorial<br>
 Day 66 - Prime Game<br>
 Day 67 - Electronics Shop<br>
 Day 68 - Sales by match<br>
+Day 69 - Breaking the records<br>
