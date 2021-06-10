@@ -68,3 +68,4 @@ Day 67 - Electronics Shop<br>
 Day 68 - Sales by match<br>
 Day 69 - Breaking the records<br>
 Day 70 - Design PDF viewer<br>
+Day 71 - Bill Division<br>
