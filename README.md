@@ -71,3 +71,4 @@ Day 70 - Design PDF viewer<br>
 Day 71 - Bill Division<br>
 Day 72 - Fredo and Array Update<br>
 Day 73 - Counting Valleys<br>
+Day 74 - Migratory birds<br>
