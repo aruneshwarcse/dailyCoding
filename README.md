@@ -73,3 +73,4 @@ Day 72 - Fredo and Array Update<br>
 Day 73 - Counting Valleys<br>
 Day 74 - Migratory birds<br>
 Day 75 - Utopian Tree<br>
+Day 76 - Day at movie<br>
